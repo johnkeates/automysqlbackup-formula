@@ -1,0 +1,3 @@
+automysqlbackup:
+  lookup:
+    master: automysqlbackup-master

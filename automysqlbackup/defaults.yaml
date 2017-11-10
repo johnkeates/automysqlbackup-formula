@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+# vim: ft=yaml
+automysqlbackup:
+  pkg: automysqlbackup
+  config: '/etc/automysqlbackup'
+  service:
+    name: automysqlbackup
